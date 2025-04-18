@@ -1,0 +1,7 @@
+K = 5, Ratio = 0.75, Matcher = BFMatcher
+Top 5 similar images:
+1. dog.4091.jpg - 22 matches - ./resources/classification\dogs\dog.4091.jpg
+2. dog.4069.jpg - 15 matches - ./resources/classification\dogs\dog.4069.jpg
+3. cat.4234.jpg - 14 matches - ./resources/classification\cats\cat.4234.jpg
+4. cat.4323.jpg - 14 matches - ./resources/classification\cats\cat.4323.jpg
+5. cat.4081.jpg - 13 matches - ./resources/classification\cats\cat.4081.jpg

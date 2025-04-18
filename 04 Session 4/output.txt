@@ -1,0 +1,6 @@
+Top 5 similar images:
+1. cat.4063.jpg - 6 matches - ./resources/classification\cats\cat.4063.jpg
+2. cat.4111.jpg - 6 matches - ./resources/classification\cats\cat.4111.jpg
+3. cat.4339.jpg - 5 matches - ./resources/classification\cats\cat.4339.jpg
+4. cat.4022.jpg - 4 matches - ./resources/classification\cats\cat.4022.jpg
+5. cat.4039.jpg - 4 matches - ./resources/classification\cats\cat.4039.jpg

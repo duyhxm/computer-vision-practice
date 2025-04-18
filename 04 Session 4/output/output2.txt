@@ -1,0 +1,7 @@
+K = 5, Ratio = 0.5, Matcher = BFMatcher
+Top 5 similar images:
+1. cat.4351.jpg - 2 matches - ./resources/classification\cats\cat.4351.jpg
+2. cat.4024.jpg - 1 matches - ./resources/classification\cats\cat.4024.jpg
+3. cat.4037.jpg - 1 matches - ./resources/classification\cats\cat.4037.jpg
+4. cat.4059.jpg - 1 matches - ./resources/classification\cats\cat.4059.jpg
+5. cat.4074.jpg - 1 matches - ./resources/classification\cats\cat.4074.jpg
